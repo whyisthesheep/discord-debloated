@@ -8,7 +8,8 @@ A simple discord theme to remove bloat
 - Alternatively you could download `debloated.theme.css` into the plugins folder
 
 ### BetterDiscord:
-- Soon (hopefully)
+- (Pending submition)
+- For now, download `debloated.theme.css` to the plugins folder
 
 ### Other:
 - Paste the contents of `debloated.theme.css` into your Quick CSS
