@@ -1,2 +1,5 @@
-# discord-debloated
-Debloat Discord Theme
+# Discord Debloated
+A simple discord theme to remove bloat
+
+## Installation
+- Vencord:

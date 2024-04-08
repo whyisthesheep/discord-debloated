@@ -1,0 +1,58 @@
+/**
+ * @name Debloated
+ * @author whyisthesheep
+ * @version 1.0.0
+ * @description A simple theme to remove bloat from discord
+ * @source https://github.com/whyisthesheep/discord-debloated
+*/
+
+/* Comment out any to re-show the item */
+
+/* Sticker button (accesible from emoji picker menu) */
+button[aria-label="Open sticker picker"] {
+    display: none;
+}
+
+/* Gif button (accesible from emoji picker menu) */
+button[aria-label="Open GIF picker"] {
+    display: none;
+}
+
+/* Nitro gift button */
+button[aria-label="Send a gift"] {
+    display: none;
+}
+
+/* Help button */
+div[aria-label="Help"] {
+    display: none;
+}
+
+/* Inbox button */
+div[aria-label="Inbox"] {
+    display: none;
+}
+
+/* Group chat button? You can do it differently */
+div[aria-label="Add Friends to DM"] {
+    display: none;
+}
+
+/* "Use Apps" menu on upload button (accesible by typing /) */
+#channel-attach-SLASH_COMMAND {
+    display: none;
+}
+/* Publicly discoverable servers menu */
+div[aria-label="Explore Discoverable Servers"] {
+    display: none;
+}
+
+/* Nitro button */
+li.channel__0aef5:nth-child(3) {
+    display: none;
+}
+
+/* Shop button */
+li.channel__0aef5:nth-child(4) {
+    display: none;
+}
