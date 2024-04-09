@@ -7,11 +7,12 @@ A simple discord theme to remove bloat
 - Paste this into the `Online Themes` box: `https://raw.githubusercontent.com/whyisthesheep/discord-debloated/main/debloated.theme.css`
 - Alternatively you could download `debloated.theme.css` into the plugins folder
 
-### BetterDiscord:
-- (Pending submition)
-- For now, download `debloated.theme.css` to the plugins folder
-
 ### Other:
 - Paste the contents of `debloated.theme.css` into your Quick CSS
 OR
 - Copy `debloated.theme.css` into your themes folder
+
+## Other
+Any item can be renabled by commenting it out in the css file
+No betterdiscord rip
+![rip](https://0x0.st/XiUB.png)
