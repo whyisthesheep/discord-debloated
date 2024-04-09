@@ -15,4 +15,4 @@ OR
 ## Other
 Any item can be renabled by commenting it out in the css file
 No betterdiscord rip
-![rip](https://0x0.st/XiUB.png)
+![rip](https://0x0.st/XiUS.png)
