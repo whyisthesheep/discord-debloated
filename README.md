@@ -13,6 +13,6 @@ OR
 - Copy `debloated.theme.css` into your themes folder
 
 ## Other
-Any item can be renabled by commenting it out in the css file
-No betterdiscord rip
+Any item can be renabled by commenting it out in the css file \
+No betterdiscord rip \
 ![rip](https://0x0.st/XiUS.png)
