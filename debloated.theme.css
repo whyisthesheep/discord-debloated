@@ -56,3 +56,13 @@ li.channel__0aef5:nth-child(3) {
 li.channel__0aef5:nth-child(4) {
     display: none;
 }
+
+/* Remove family centre in settings */
+div[aria-label="Family Centre"] {
+		display: none;
+}
+
+/* Remove clips settings */
+div[aria-label="Clips"] {
+		display: none;
+}
